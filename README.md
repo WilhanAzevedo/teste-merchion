@@ -131,6 +131,7 @@ Para rodar este projeto Symfony, você precisa dos seguintes requisitos:
 
 6. **Git**
    - Para clonar o repositório.
+7. **Symfony CLI** (opcional, caso queira rodas em sua propria maquina(fora do docker) )    
 
 ---
 
